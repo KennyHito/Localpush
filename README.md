@@ -96,7 +96,8 @@ regionTriggersOnce：带有定位的推送相关属性，具体使用见下面�
 
 ![在桌面顶部弹出效果](http://upload-images.jianshu.io/upload_images/2248913-7933823f1db9b6aa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-##### 六.代码下载
+##### 六.简书详情
+[http://www.jianshu.com/p/4a23bd5e1b00](http://www.jianshu.com/p/4a23bd5e1b00)
   
 
 ##### 分析appDelegate(作为总结,可以不看!)
