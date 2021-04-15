@@ -12,7 +12,7 @@ iOS开发,实现本地推送
 ##### 功能部分:</br>
 ![本地推送分析图](http://upload-images.jianshu.io/upload_images/2248913-0ad720fb24535dc5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-####一.iOS8本地推送注册
+#### 一.iOS8本地推送注册
 ~~~
 //创建本地通知
 - (void)requestAuthor
